@@ -1,0 +1,150 @@
+/*** sectioning elements ***/
+
+body {
+         font-family: 'Lobster Two', cursive;
+}
+
+header {
+    background-color: #878681;
+}
+
+header .container {
+    background-color: #878681;
+}
+
+header nav {
+         background-color: #000000;
+}
+
+main {
+    /* I wouldn't recommend applying any styles to this
+       section as the 'main' element is not supported
+       in all browsers yet. */
+}
+
+
+footer{
+    background-color: #878681;
+}
+
+footer .container {
+    background-color: #878681;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** base styles ***/
+
+
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+    color: #000000;
+}
+
+h2 {
+    color: #000000;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+}
+
+h3 {
+    color: #000000;
+    border-bottom: solid 3px;
+    border-bottom-color: #000000;
+    text-transform: uppercase;
+    font-family: 'Cinzel', serif;
+}
+
+h4 {
+     color: #000000;
+     text-transform: uppercase;
+     font-family: 'Cinzel', serif;
+     border-bottom: solid 3px;
+     border-bottom-color: #000000;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+	 max-width: 100%;
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+
+/*** form styles (coming soon) ***/
